@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80vw;
+}
+.nav-bar li{
+    list-style: none;
+    margin: 0 67px;
+}
+.nav-bar{
+    display: flex;
+    height: 50px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+.topright{
+    width: 50%;
+    height: 50vh;
+}
+.section2 p{
+   padding: 0 8vw;
+   text-align: center;
+}
+.img1{
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    width: 500px;
+
+}
+body{
+    background-color: rgb(247, 238, 227);
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.section2 h1{
+    font-size: 2rem;
+}
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.box{
+    margin:12px 22px ;
+    min-width: 23vw;
+    border: 2px solid rgb(27, 27, 74);
+    border-radius: 8px;
+    text-align: center;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin:12px 2px ;
+}
+.highlight{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.box h1{
+
+   padding: 12px 0;
+}
+.box1{
+    margin:12px 22px ;
+    min-width: 23vw;
+    
+    border-radius: 8px;
+    text-align: center;
+} 
+.box1 ul{
+list-style: none;}
